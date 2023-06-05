@@ -1,0 +1,11 @@
+body {
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+th {
+  border: solid 0.5px black;
+  padding-right: 70px;
+}
